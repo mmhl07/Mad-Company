@@ -1,4 +1,4 @@
 Mad-Company
 ===========
-Site from Mad Company.
+Website from Mad Company.
 Still in progress.
